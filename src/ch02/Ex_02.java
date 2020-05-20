@@ -14,6 +14,7 @@ public class Ex_02 {
         }
         System.out.println(ex_02.uppercaseNames);
         ex_02.uppercaseNames.clear();
+        // ex_02.uppercaseNames = null;    // Cannot assign a value to final variable 'uppercaseNames'
         System.out.println("리스트 비어있는지?: " + ex_02.uppercaseNames.isEmpty());
 
         System.out.println("=====");
