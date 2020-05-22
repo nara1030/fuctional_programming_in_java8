@@ -15,7 +15,7 @@ Functional Programming in Java8(2014)
 4. [String, Comparator, 그리고 filter](docs/ch03.md)
 5. [람다 표현식을 이용한 설계](docs/ch04.md)
 6. 리소스를 이용한 작업
-7. 레이지
+7. [레이지](docs/ch06.md)
 8. 재귀 호출 최적화
 9. 람다 표현식의 조합
 10. 모든 것을 함께 사용해보자
@@ -23,6 +23,6 @@ Functional Programming in Java8(2014)
 ##### [목차로 이동](#목차)
 
 ## 참고
-
+* [java Stream의 사용](https://johngrib.github.io/wiki/java-stream/)
 
 ##### [목차로 이동](#목차)
