@@ -23,6 +23,8 @@ Functional Programming in Java8(2014)
 ##### [목차로 이동](#목차)
 
 ## 참고
+* [요약 블로그](https://tomining.tistory.com/52)
 * [java Stream의 사용](https://johngrib.github.io/wiki/java-stream/)
+* [java 8 interface, default 메서드의 고찰](https://blog.powerumc.kr/473)
 
 ##### [목차로 이동](#목차)
